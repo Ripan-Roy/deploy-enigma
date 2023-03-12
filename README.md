@@ -1,6 +1,6 @@
 # Project Andromeda
                   -- Made by Ripan Roy
-# Dataset link : `https://www.kaggle.com/datasets/omkargurav/face-mask-dataset`
+# Dataset link : https://www.kaggle.com/datasets/omkargurav/face-mask-dataset
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
