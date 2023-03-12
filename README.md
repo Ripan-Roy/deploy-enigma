@@ -1,4 +1,4 @@
-#Install Dependencies
+# Install Dependencies
 `pip install -r requirments.txt`
-#Then run
+# Then run
 `python manage.py runserver`
