@@ -5,7 +5,7 @@
 
 
 # Install Requirments
-`pip install -r requirments.txt`
+`pip install -r requirements.txt`
 
 # Run on Local Server
 `python manage.py runserver`
