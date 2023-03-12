@@ -1,5 +1,21 @@
-# Install Dependencies
+# Project Andromeda
+                  -- Made by Ripan Roy
+
+
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
+# Install Requirments
 `pip install -r requirments.txt`
-# Then run
+
+# Run on Local Server
 `python manage.py runserver`
-# The jupyter notebooks are on the folder
+## Features
+
+- Made a Tensorflow based mask detection model  
+- Made a SVM based mask detection model
+
+
+> Tensorflow Accuracy - 94%
+> SVM Accuracy - 96%
+
+
