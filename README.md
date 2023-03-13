@@ -16,6 +16,6 @@
 
 
 > Tensorflow Accuracy - 94%
-> SVM Accuracy - 96%
+> SVM Accuracy - 91%
 
 
