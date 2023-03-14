@@ -11,8 +11,8 @@
 `python manage.py runserver`
 ## Features
 
-- Made a Tensorflow based mask detection model  
-- Made a SVM based mask detection model
+- Made a CNN based mask detection model using Tensorflow  
+- Made a SVM based mask detection model using oneAPI optimised scikit-learn
 
 
 > Tensorflow Accuracy - 94%
