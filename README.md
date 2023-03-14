@@ -12,7 +12,7 @@
 ## Features
 
 - Made a CNN based mask detection model using Tensorflow  
-- Made a SVM based mask detection model using oneAPI optimised scikit-learn
+- Made a SVM based mask detection model using INTEL oneAPI optimised scikit-learn
 
 
 > Tensorflow Accuracy - 94%
